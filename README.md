@@ -6,5 +6,9 @@
 例えば、ユーザーが自分の好きな映画あるいは自分の好きな俳優の映画を見ると、この推薦システムは同じジャンルの映画や、同じ俳優が出演する映画、またはその両方を推奨する。
 
 
-## What is content base movie recommendation system? ##
-Content-Based Recommendations systems are the systems that look for similarity before recommending something. We all have seen whenever we are looking for a movie or web series on Netflix,youtube,Tmdb, we get the same genre movie recommended by Netflix.... etc.
+## 推薦手法の分類　##
+コンテンツベースのフィルタリング：映画の属性や特徴（ジャンル、監督、出演者など）を分析し、ユーザーの好みとの一致度を評価して映画を推薦します。
+協調フィルタリング：複数のユーザーの映画視聴履歴や評価データを収集し、その情報をもとに似た傾向や興味を持つユーザーを特定し、彼らが視聴した映画を推薦します。
+ハイブリッドフィルタリング：複数の手法やアルゴリズムを組み合わせて映画を推薦する手法です。たとえば、コンテンツベースのフィルタリングと協調フィルタリングを組み合わせて利点を結集することがあります。
+![image](https://github.com/RUMONMD89/ML-project-movie-recommendation-system/assets/104481591/2121aa93-b915-453d-91f9-227389a2911f)
+
