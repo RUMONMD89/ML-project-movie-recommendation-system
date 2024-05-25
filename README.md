@@ -10,3 +10,7 @@
 
 ![image](https://github.com/RUMONMD89/ML-project-movie-recommendation-system/assets/104481591/2121aa93-b915-453d-91f9-227389a2911f)
 
+### wait project gif file being loaded here... ###
+<img src="execution result .gif" width="800px">
+
+### thanks for watching ###
