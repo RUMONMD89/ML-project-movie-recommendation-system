@@ -18,7 +18,7 @@
 「流れの段階として　データ前処理の段階、データモデリング段階、ベクタライズ段階(類似性の計算),最後にデモンストレーションサイトの作成し実行を実施しました。」
 
 映画コンテンツ推奨システムに関する研究では，映画の内容に関する映画特徴の抽出を行うことで，映画推薦システムの推薦精度を向上させることができる．また，コンテンツベースのフィルタリングシステム手法を用いた映画コンテンツ推奨システムを試作することができた。
-### wait project gif file being loaded here... ###
+### wait project gif file being loading here... ###
 <img src="Movie recommendation system/content_base_recommendation.gif" width="800px">
 
 ### thanks for watching..(^).. ###
